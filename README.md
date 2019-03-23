@@ -26,7 +26,7 @@ List of awesome tools for NextCloud and OwnCloud
 * [deck](https://github.com/nextcloud/deck) - Kanban-style project & personal management tool for NC, similar to Trello
 * [files_antivirus](https://github.com/nextcloud/files_antivirus) - Antivirus app for NC
 * [gallery](https://github.com/nextcloud/gallery) - Gallery app for NC
-* [impersonate](https://github.com/nextcloud/impersonate) - Lets admins become differet users.
+* [impersonate](https://github.com/nextcloud/impersonate) - Lets admins become different users.
 * [mail](https://github.com/nextcloud/mail) - Mail app for NC
 * [maps](https://github.com/nextcloud/maps) - Maps app for NC
 * [nextant](https://github.com/nextcloud/nextant) - Full-text search using Solr
@@ -50,7 +50,7 @@ List of awesome tools for NextCloud and OwnCloud
 ### Images
 * [docker](https://github.com/nextcloud/docker) - Docker image of NC
 * [nextcloud-snap](https://github.com/nextcloud/nextcloud-snap) - NC snap package
-* [spreedme-snap](https://github.com/nextcloud/spreedme-snap) - Setup spreed in NC
+* [spreedme-snap](https://github.com/nextcloud/spreedme-snap) - Set up spreed in NC
 * [vm](https://github.com/nextcloud/vm) - Official NC virtual machine
 
 ### Extensions
